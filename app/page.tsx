@@ -61,7 +61,7 @@ export default function Home() {
             <div className="w-24 h-1 bg-white mb-8"></div>
             <p className="text-gray-300 mb-12">
               I'm a passionate professional dedicated to creating exceptional work. With expertise in my field, I bring
-              creativity and precision to every project. Explore my portfolio to see my latest work and achievements.
+              creativity and precision to every project.
             </p>
 
           </div>
